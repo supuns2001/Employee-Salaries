@@ -2,6 +2,11 @@
     <string name="app_name">ManageSalary</string>
     <string name="test1">Manage Salary</string>
     <string name="button1">Add Employee</string>
-    <string name="button2">Manage Salary</string>
-    <string name="button3">Manage Salary</string>
+    <string name="button2">Add Product</string>
+    <string name="button3">Add build part</string>
+    <string name="text2">Product Registration</string>
+    <string name="text3">Product Name</string>
+    <string name="text4">Product Price</string>
+    <string name="text5">Product Register</string>
+
 </resources>
