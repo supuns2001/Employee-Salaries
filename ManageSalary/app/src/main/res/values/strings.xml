@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ManageSalary</string>
+    <string name="test1">Manage Salary</string>
+    <string name="button1">Add Employee</string>
+    <string name="button2">Manage Salary</string>
+    <string name="button3">Manage Salary</string>
+</resources>
