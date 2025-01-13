@@ -8,5 +8,8 @@
     <string name="text3">Product Name</string>
     <string name="text4">Product Price</string>
     <string name="text5">Product Register</string>
+    <string name="text6">Employee Registration</string>
+    <string name="text7">Employee Name</string>
+    <string name="text8">Employee Register</string>
 
 </resources>

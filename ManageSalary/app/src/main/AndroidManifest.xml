@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ManageSalary"
         tools:targetApi="31">
         <activity
+            android:name=".AddProductActivity"
+            android:exported="false" />
+        <activity
             android:name=".AddEmployeeActivity"
             android:exported="false" />
         <activity
