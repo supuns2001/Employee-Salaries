@@ -24,12 +24,21 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-
-        Button addProductButton = findViewById(R.id.button);
-        addProductButton.setOnClickListener(new View.OnClickListener() {
+        Button addEmployeeButton = findViewById(R.id.button);
+        addEmployeeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this , AddEmployeeActivity.class);
+                startActivity(intent);
+            }
+        });
+
+
+        Button addProductButton = findViewById(R.id.button2);
+        addProductButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this , AddProductActivity.class);
                 startActivity(intent);
             }
         });

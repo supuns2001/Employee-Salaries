@@ -11,5 +11,10 @@
     <string name="text6">Employee Registration</string>
     <string name="text7">Employee Name</string>
     <string name="text8">Employee Register</string>
+    <string name="text9">Product Parts</string>
+    <string name="text10">Enter Product Part</string>
+    <string name="text11">Price for part</string>
+    <string name="text12">Select a product</string>
+    <string name="button4">Add Part</string>
 
 </resources>
