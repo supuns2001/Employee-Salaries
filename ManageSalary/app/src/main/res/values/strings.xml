@@ -3,7 +3,7 @@
     <string name="test1">Manage Salary</string>
     <string name="button1">Add Employee</string>
     <string name="button2">Add Product</string>
-    <string name="button3">Add build part</string>
+    <string name="button3">Calculate Salary</string>
     <string name="text2">Product Registration</string>
     <string name="text3">Product Name</string>
     <string name="text4">Product Price</string>
@@ -16,5 +16,6 @@
     <string name="text11">Price for part</string>
     <string name="text12">Select a product</string>
     <string name="button4">Add Part</string>
+    <string name="text13">Calculate Salary</string>
 
 </resources>
