@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ManageSalary"
         tools:targetApi="31">
         <activity
+            android:name=".CalculateSalaryActivity"
+            android:exported="false" />
+        <activity
             android:name=".CaculateSalaryActivity"
             android:exported="false" />
         <activity

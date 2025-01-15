@@ -42,4 +42,5 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
 //    implementation("com.github.LottieFiles:dotlottie-android:0.5.0")
     implementation ("com.airbnb.android:lottie:6.0.0")
+    implementation ("com.github.PhilJay:MPAndroidChart:v3.1.0")
 }

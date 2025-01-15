@@ -17,5 +17,7 @@
     <string name="text12">Select a product</string>
     <string name="button4">Add Part</string>
     <string name="text13">Calculate Salary</string>
+    <string name="text14">Completed Quantity</string>
+    <string name="button5">Calculate</string>
 
 </resources>
